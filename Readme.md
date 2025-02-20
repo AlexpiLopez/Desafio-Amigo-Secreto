@@ -17,4 +17,4 @@ Puedes probar este proyecto siguiendo este enlace: Amigo Secreto Alura.
 Para ejecutar este proyecto en tu computadora localmente, sigue estos pasos:
 
 Clona el repositorio:
-git clone 
+git clone https://alexpilopez.github.io/Desafio-Amigo-Secreto/
